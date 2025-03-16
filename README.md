@@ -40,4 +40,6 @@ BeautifulSoup ``` from bs4 import BeautifulSoup ``` <br>
 
 ## Дополнительно
 Может помочь в случае возникновения проблем с nbformat: <br> [ValueError: Mime type rendering requires nbformat>=4.2.0 but it is not installed](https://stackoverflow.com/questions/66557543/valueerror-mime-type-rendering-requires-nbformat-4-2-0-but-it-is-not-installed) <br>
+<br>
+
 Может помочь в случае возникновения проблем с kaleido: <br> [Static image export hangs using kaleido](https://community.plotly.com/t/static-image-export-hangs-using-kaleido/61519)<br>
